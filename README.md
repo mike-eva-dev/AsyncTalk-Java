@@ -78,4 +78,9 @@ Una volta connesso, l'utente può interagire con il server utilizzando la seguen
 * **Logic**: String Manipulation, Parsing e gestione dei flussi di I/O.
 * **Clean Code**: Programmazione orientata agli oggetti (OOP) e incapsulamento.
 
+
 ---
+
+## 🎓 Academic Context
+
+Questo progetto nasce come approfondimento pratico nell'ambito del mio percorso di studi in **Computer Science and AI** presso l'**Università "La Sapienza" di Roma**.
